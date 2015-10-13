@@ -15,7 +15,7 @@
     "recursive"
   ],
   "author": "Ripples",
-  "license": "GPL",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/JayvicWen/node-change-case/issues"
   },
