@@ -16,4 +16,4 @@ console.log(changeCaseRecur.toCamel({snake_case: 1}));
 ```
 
 ## License
-GPL
+[MIT](./LICENSE)
